@@ -104,6 +104,7 @@ body main section article a {
   border-radius: 50px;
   width: -moz-fit-content;
   width: fit-content;
+  text-align: center;
 }
 body main section article a:hover {
   background-color: transparent;
